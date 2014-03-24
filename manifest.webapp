@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "name": "Calculator",
+  "description": "Simple Calculator for Firefox OS",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icon16.png",
+    "48": "/img/icon48.png",
+    "128": "/img/icon128.png"
+  },
+  "developer": {
+    "name": "Abin Abraham Anchery
+    "url": "http://www.mozillakerala.org/"
+  },
+  "default_locale": "en"
+}
